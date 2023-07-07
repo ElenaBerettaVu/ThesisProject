@@ -18,7 +18,7 @@ What you will find in this workspace:
 * tips on how to best draft the thesis :book::muscle: #5_research_questions #6_thesis_structure
 * tips on how to best structure your presentation :computer::muscle: #7_presentation
 * things to do before you start your project :dart: #3_what_to_do_first
-* how to reach me :telephone_receiver: #2_how_to_reach_me
+* how to reach me :telephone_receiver: [ How to reach me. ](#reach)
 
 
 How the workspace is structured :mag_right::
@@ -56,12 +56,12 @@ Please **do not contact me by email**. Slack is my preferred work tool to which 
 
 :calendario_a_spirale: To book an appointment with me use this link [Link](https://calendar.google.com/calendar/u/0/appointments/AcZssZ0UIotWY--1-N-QAT6DrJny_Zx6W_ODRlDvud8=).
 
+I usually consider these appointments as online meetings. If you prefer **to meet in person**, send me a message on slack first to verify that I will be at VU on the day you want to book an appointment. My office is at the 10th floor, wing A, room 33, of the NU building.
 
-I usually consider these appointments as online meetings. If you prefer to meet in person, send me a message on slack first to verify that I will be at VU on the day you want to book an appointment. My office is at the 10th floor, wing A, room 33, of the NU building.
+**Culture/rules** 👩‍💻
 
-**Culture/rules** :informatico_donna:
-online or in-person meetings: you decide!
-this is your thesis, but it’s also a collaboration! :profilo_di_busti:
-I expect you to be proactive. Don’t wait for me to be asking for an update. From the time you start the thesis I expect you to at least have a weekly update on slack and to book a biweekly appointment with me
-before your biweekly appointment prepare an agenda at least a couple of days in advance so that I can best help you. If we have meeting on Monday, get me the agenda at least Friday morning of the previous week :segnalibro:
-please try to meet the deadlines I will propose during the course of the project :sveglia: This will ensure you finish your thesis project on time and enjoy some well-deserved vacation time next summer :isola_deserta:
+* online or in-person meetings: you decide!
+* this is your thesis, but it’s also a collaboration! :busts_in_silhouette:
+* I expect you to be proactive. Don’t wait for me to be asking for an update. From the time you start the thesis I expect you to at least have a **weekly update on slack** and to book a **biweekly appointment with me**
+* before your biweekly appointment prepare an agenda at least a couple of days in advance so that I can best help you. If we have meeting on Monday, get me the agenda at least Friday morning of the previous week :bookmark:
+* please try to meet the deadlines I will propose during the course of the project :alarm_clock: This will ensure you finish your thesis project on time and enjoy some well-deserved vacation time next summer 🏝️
