@@ -21,6 +21,7 @@ What you will find in this workspace:
 * things to do before you start your project :dart: [ What do to do first. ](#first)
 * the best way to reach me :telephone_receiver: [ How to reach me. ](#reach)
 
+### Instructions for Slack
 
 How the workspace is structured :mag_right::
 
@@ -73,7 +74,8 @@ I usually consider these appointments as online meetings. If you prefer **to mee
 
 This section describes the **working tools** and how they should be used.
 
-### Slack app :slack:
+### Slack app ![image](https://github.com/ElenaBerettaVu/ThesisProject/assets/84765271/efa5e71d-082f-4d9c-ae6d-5b048fb2d8ba){ width: 200px; }
+
 To get the most out of slack I recommend that you add the following apps/integrations to the workspace (use the same email you used to sign up for slack):
 * google calendar
 * google drive
@@ -95,3 +97,5 @@ bibliography: where you will put the pdfs of the articles you have read/are goin
 Once you have created the folder on drive share it with me (as before, use elena.beretta@vu.nl) and be sure to give me editor permissions; from time to time I might upload interesting things/articles to the folder
 Google form :google-forms:
 Once you have completed all of these steps, please fill out this google form (but not before I have created your directory on github). I need this to collect all your links in one place  
+
+
