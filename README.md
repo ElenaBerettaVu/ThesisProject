@@ -56,7 +56,7 @@ Happy start of the project to everyone! :rocket:
 
 Please **do not contact me by email**. Slack is my preferred work tool to which I am always connected during working hours (approximately 9/17).
 
-:calendario_a_spirale: To book an appointment with me use this link [Link](https://calendar.google.com/calendar/u/0/appointments/AcZssZ0UIotWY--1-N-QAT6DrJny_Zx6W_ODRlDvud8=).
+:calendario_a_spirale: To book an appointment with me use [this link](https://calendar.google.com/calendar/u/0/appointments/AcZssZ0UIotWY--1-N-QAT6DrJny_Zx6W_ODRlDvud8=).
 
 I usually consider these appointments as online meetings. If you prefer **to meet in person**, send me a message on slack first to verify that I will be at VU on the day you want to book an appointment. My office is at the 10th floor, wing A, room 33, of the NU building.
 
@@ -69,33 +69,39 @@ I usually consider these appointments as online meetings. If you prefer **to mee
 * please try to meet the deadlines I will propose during the course of the project :alarm_clock: This will ensure you finish your thesis project on time and enjoy some well-deserved vacation time next summer 🏝️
 
 
-<a name="start"></a>
+<a name="first"></a>
 ## 3. What do to do first
 
 This section describes the **working tools** and how they should be used.
 
-### Slack app ![image](https://github.com/ElenaBerettaVu/ThesisProject/assets/84765271/efa5e71d-082f-4d9c-ae6d-5b048fb2d8ba){ width: 200px; }
+### Slack app <img src="https://emoji.slack-edge.com/T0478UF0N80/slack/7d462d2443.png" width="25">
 
 To get the most out of slack I recommend that you add the following apps/integrations to the workspace (use the same email you used to sign up for slack):
 * google calendar
 * google drive
 * github
   
-### Overleaf :foglie:
-Write your thesis with Overleaf. If you are not familiar with it, start familiarizing yourself with the tool before you begin writing. To learn how to set up the structure see the #6_thesis_structure channel. Once you have created the file share it with me; you can use my e-mail elena.beretta@vu.nl
-Github :github:
+### Overleaf :leaves:
+Write your thesis with [Overleaf](https://www.overleaf.com/). If you are not familiar with it, start familiarizing yourself with the tool before you begin writing. To learn how to set up the structure see the #6_thesis_structure channel. Once you have created the file share it with me; you can use my e-mail elena.beretta@vu.nl
+
+### Github <img src="https://emoji.slack-edge.com/T0478UF0N80/github/6030952033273d03.png" width="25">
 It is easier for me to review your code from here. I will create a project on Github shortly and share it with you. All the code you use must be in the github folder. Write to me privately the email you have decided to use. For convenience I recommend that you use the same email address for all tools, including slack
-Google Drive :google-drive:
+
+### Google Drive <img src="https://emoji.slack-edge.com/T0478UF0N80/google-drive/1b5371cac20a4325.png" width="25">
 Create a folder in your google drive and name it like this:
+```
 Name_surname_course_academic year
 Example:
 Elena_Beretta_AI_2023
+```
 Inside create the following subfolders:
-thesis: where you will put drafts and other files related to the writing
-presentation: where you will put files related to the final presentation
-bibliography: where you will put the pdfs of the articles you have read/are going to use in the thesis. Please name the pdfs you place with the original title of the paper. This way it is easier for me to keep track of what you are reading/find a relevant article that you point out to me
+* thesis: where you will put drafts and other files related to the writing
+* presentation: where you will put files related to the final presentation
+* bibliography: where you will put the pdfs of the articles you have read/are going to use in the thesis. Please name the pdfs you place with the original title of the paper. This way it is easier for me to keep track of what you are reading/find a relevant article that you point out to me
+
 Once you have created the folder on drive share it with me (as before, use elena.beretta@vu.nl) and be sure to give me editor permissions; from time to time I might upload interesting things/articles to the folder
-Google form :google-forms:
-Once you have completed all of these steps, please fill out this google form (but not before I have created your directory on github). I need this to collect all your links in one place  
+
+### Google form <img src="https://emoji.slack-edge.com/T0478UF0N80/google-forms/d8327670b1b047cd.png" width="25">
+Once you have completed all of these steps, please fill out [this google form](https://docs.google.com/forms/d/e/1FAIpQLSfEXOOtH-ObOQNlUWbiDEGYZdAQxB4YmZCR8BvbwWzNtDuIeQ/viewform) (but not before I have created your directory on github). I need this to collect all your links in one place  
 
 
