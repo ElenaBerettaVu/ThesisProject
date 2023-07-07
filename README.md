@@ -11,7 +11,8 @@
 
 Hello everyone :sunny:
 as you know you will soon begin your thesis project :rocket:
-In order to make communications and interactions easier, especially for students going through a similar project, I have asked you all to join this work area. This way it is easier for everyone to exchange opinions :speaking_head_in_silhouette:, ideas:bulb:, reading suggestions:books:
+In order to make communications and interactions easier, especially for students going through a similar project, I have asked you all to join this work area. This way it is easier for everyone to exchange opinions
+:speaking_head:, ideas:bulb:, reading suggestions:books:
 The best ideas have always come to me through interactions with others so don’t be afraid to share, research arises and grows also and especially through sharing!
 What you will find in this workspace:
 
