@@ -103,6 +103,6 @@ Inside create the following subfolders:
 Once you have created the folder on drive share it with me (as before, use elena.beretta@vu.nl) and be sure to give me editor permissions; from time to time I might upload interesting things/articles to the folder
 
 ### Google form <img src="https://emoji.slack-edge.com/T0478UF0N80/google-forms/d8327670b1b047cd.png" width="25">
-Once you have completed all of these steps, please fill out [this google form](https://docs.google.com/forms/d/e/1FAIpQLSfEXOOtH-ObOQNlUWbiDEGYZdAQxB4YmZCR8BvbwWzNtDuIeQ/viewform) (but not before I have created your directory on github). I need this to collect all your links in one place  
+Once you have completed all of these steps, please fill out [this google form](https://docs.google.com/forms/d/e/1FAIpQLSfEXOOtH-ObOQNlUWbiDEGYZdAQxB4YmZCR8BvbwWzNtDuIeQ/viewform). I need this to collect all your links in one place  
 
 
