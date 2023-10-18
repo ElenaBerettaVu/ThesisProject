@@ -83,7 +83,7 @@ To get the most out of slack I recommend that you add the following apps/integra
 * github
   
 ### Overleaf :leaves:
-Write your thesis with [Overleaf](https://www.overleaf.com/). If you are not familiar with it, start familiarizing yourself with the tool before you begin writing. To learn how to set up the structure see the #6_thesis_structure channel. Once you have created the file share it with me; you can use my e-mail elena.beretta@vu.nl
+Write your thesis with [Overleaf](https://www.overleaf.com/). If you are not familiar with it, start familiarizing yourself with the tool before you begin writing. Once you have created the file share it with me; you can use my e-mail elena.beretta@vu.nl
 
 ### Github <img src="https://emoji.slack-edge.com/T0478UF0N80/github/6030952033273d03.png" width="25">
 It is easier for me to review your code from here. I will create a project on Github shortly and share it with you. All the code you use must be in the github folder. Write to me privately the email you have decided to use. For convenience I recommend that you use the same email address for all tools, including slack
