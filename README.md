@@ -3,6 +3,7 @@
 1. [ Starting guide. ](#start)
 2. [ How to reach me. ](#reach)
 3. [ What do to do first. ](#first)
+4. [ Research Design and Timeline. ] (#time)
 
 <a name="start"></a>
 ## 1. Starting guide
@@ -17,10 +18,9 @@ The best ideas have always come to me through interactions with others so don’
 What you will find in this workspace:
 
 * useful information from a bureaucratic point of view :classical_building: #4_general_info
-* tips on how to best draft the thesis :book::muscle: #5_research_questions #6_thesis_structure
-* tips on how to best structure your presentation :computer::muscle: #7_presentation
 * things to do before you start your project :dart: [ What do to do first. ](#first)
 * the best way to reach me :telephone_receiver: [ How to reach me. ](#reach)
+* how to start your thesis project :airplane_departure: [ Research Design and Timeline. ] (#time)
 
 ### Instructions for Slack
 
@@ -103,6 +103,9 @@ Inside create the following subfolders:
 Once you have created the folder on drive share it with me (as before, use elena.beretta@vu.nl) and be sure to give me editor permissions; from time to time I might upload interesting things/articles to the folder
 
 ### Google form <img src="https://emoji.slack-edge.com/T0478UF0N80/google-forms/d8327670b1b047cd.png" width="25">
-Once you have completed all of these steps, please fill out [this google form](https://docs.google.com/forms/d/e/1FAIpQLSfEXOOtH-ObOQNlUWbiDEGYZdAQxB4YmZCR8BvbwWzNtDuIeQ/viewform). I need this to collect all your links in one place  
+Once you have completed all of these steps, please fill out [this google form](https://docs.google.com/forms/d/e/1FAIpQLSfEXOOtH-ObOQNlUWbiDEGYZdAQxB4YmZCR8BvbwWzNtDuIeQ/viewform). I need this to collect all your links in one place.
+
+<a name="time"></a>
+## 4. Research Design and Timeline
 
 
