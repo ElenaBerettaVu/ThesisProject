@@ -110,15 +110,16 @@ Once you have completed all of these steps, please fill out [this google form](h
 ## 4. Research Design and Timeline
 
 The first thing to do to begin your thesis project is to draft a Research Design. As a rule, it is always best to send me a non-final version and give me time to correct. Within the Research Design should be included clear research questions and in the methodology a concrete idea of how you intend to answer the research questions.
-Below you will find some general information about the timeline to follow if you want to execute the thesis project in 5 months:
-* month 1: research design, bibliography construction, data retrieval or dataset construction (depending on the project)
-* months 2, 3: deployment
-* month 4: evaluation and analysis of results
-* month 4, 5: thesis writing and final delivery
-* thesis submission may be at the end of month 5 or in the following month depending on faculty availability
 
-Some important things to keep in mind:
-* agree with me on clear deadlines
-* to proofread your work and give you useful feedback I need time, and proofreading your work is not my exclusive responsibility. Be sure to send me your work on time
-* do not assume that I will always be there. Generally the months when I am away for vacation or personal reasons are August, September and December. As a rule, do not assume that I am always present, or that my colleagues are, if you do not meet agreed deadlines
+Below you will find some general information about the timeline to follow if you want to execute the thesis project in 5 months:
+* **month 1**: research design, bibliography construction, data retrieval or dataset construction (depending on the project)
+* **months 2, 3**: deployment
+* **month 4**: evaluation and analysis of results
+* **month 4, 5**: thesis writing and final delivery
+* thesis presentation may be at the end of month 5 or in the following month depending on faculty availability
+
+:exclamation: Some important things to keep in mind:
+* agree with me on clear deadlines :date:
+* to proofread your work and give you useful feedback I need time, and proofreading your work is not my exclusive responsibility. Be sure to send me your work on time :alarm_clock:
+* do not assume that I will always be there. Generally the months when I am away for vacation or personal reasons are August, September and December. As a rule, do not assume that I am always present, or that my colleagues are, if you do not meet agreed deadlines :desert_island:
 
