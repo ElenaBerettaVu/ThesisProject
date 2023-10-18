@@ -3,7 +3,7 @@
 1. [ Starting guide. ](#start)
 2. [ How to reach me. ](#reach)
 3. [ What do to do first. ](#first)
-4. [ Research Design and Timeline. ] (#time)
+4. [ Research Design and Timeline. ](#time)
 
 <a name="start"></a>
 ## 1. Starting guide
@@ -20,7 +20,7 @@ What you will find in this workspace:
 * useful information from a bureaucratic point of view :classical_building: #4_general_info
 * things to do before you start your project :dart: [ What do to do first. ](#first)
 * the best way to reach me :telephone_receiver: [ How to reach me. ](#reach)
-* how to start your thesis project :airplane_departure: [ Research Design and Timeline. ] (#time)
+* how to start your thesis project :airplane_departure: [ Research Design and Timeline. ](#time)
 
 ### Instructions for Slack
 
@@ -105,7 +105,20 @@ Once you have created the folder on drive share it with me (as before, use elena
 ### Google form <img src="https://emoji.slack-edge.com/T0478UF0N80/google-forms/d8327670b1b047cd.png" width="25">
 Once you have completed all of these steps, please fill out [this google form](https://docs.google.com/forms/d/e/1FAIpQLSfEXOOtH-ObOQNlUWbiDEGYZdAQxB4YmZCR8BvbwWzNtDuIeQ/viewform). I need this to collect all your links in one place.
 
+
 <a name="time"></a>
 ## 4. Research Design and Timeline
 
+The first thing to do to begin your thesis project is to draft a Research Design. As a rule, it is always best to send me a non-final version and give me time to correct. Within the Research Design should be included clear research questions and in the methodology a concrete idea of how you intend to answer the research questions.
+Below you will find some general information about the timeline to follow if you want to execute the thesis project in 5 months:
+* month 1: research design, bibliography construction, data retrieval or dataset construction (depending on the project)
+* months 2, 3: deployment
+* month 4: evaluation and analysis of results
+* month 4, 5: thesis writing and final delivery
+* thesis submission may be at the end of month 5 or in the following month depending on faculty availability
+
+Some important things to keep in mind:
+* agree with me on clear deadlines
+* to proofread your work and give you useful feedback I need time, and proofreading your work is not my exclusive responsibility. Be sure to send me your work on time
+* do not assume that I will always be there. Generally the months when I am away for vacation or personal reasons are August, September and December. As a rule, do not assume that I am always present, or that my colleagues are, if you do not meet agreed deadlines
 
