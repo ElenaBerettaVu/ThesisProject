@@ -62,7 +62,7 @@ Create a folder in your google drive and name it like this:
 ```
 Name_surname_course_academic year
 Example:
-Elena_Beretta_AI_2023
+Elena_Beretta_masterAI_2023
 ```
 Inside create the following subfolders:
 * thesis: where you will put drafts and other files related to the writing
