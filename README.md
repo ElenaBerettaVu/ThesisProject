@@ -81,7 +81,7 @@ Once you have completed all of these steps, please fill out [this google form](h
 The first thing to do to begin your thesis project is to draft a Research Design. As a rule, it is always best to send me a non-final version and give me time to correct. Within the Research Design should be included clear research questions and in the methodology a concrete idea of how you intend to answer the research questions.
 
 Below you will find some general information about the timeline to follow if you want to execute the thesis project in no more than 5 months:
-* **month 1**: research design, bibliography construction, data retrieval or dataset construction (depending on the project)
+* **month 1**: project plan, bibliography construction, data retrieval or dataset construction (depending on the project)
 * **months 2, 3**: deployment
 * **month 4**: evaluation and analysis of results
 * **month 4, 5**: thesis writing and final delivery
@@ -91,4 +91,19 @@ Below you will find some general information about the timeline to follow if you
 * **agree with me on clear deadlines** :date:
 * to proofread your work and give you useful feedback I need time, and proofreading your work is not my exclusive responsibility. Be sure to send me your work on time :alarm_clock:
 * do not assume that I will always be there. Generally the months when I am away for vacation or personal reasons are August, September and December. As a rule, do not assume that I am always present, or that my colleagues are, if you do not meet agreed deadlines :desert_island:
+
+# 4.1 Project Plan
+The project plan should include the following sections:
+
+**Introduction** - Start with a brief introduction into the problem that your research will address, or the novel insights it is intended to yield, convincing the reader of the societal and scientific relevance of the task. If you do an external internship, also give the context of the internship provider. The intro may end with one or more research questions and/or a problem statement.
+**Related work** - Discuss the scientific literature that addresses the same or a similar problem as your study, and make clear how your study relates and adds to this body of research. Try to give a broad but concise overview of the ways in which the problem is approached in other studies. 
+**Methodology** - Specify and motivate the proposed approach(es) that you will implement / apply. If it includes a pipeline or architecture, it makes sense to give a rough visualization and description.
+**Experimental set-up** - Describe what the experiment(s) will look like. Depending on your study, it can include information like:
+* Research design
+* Dataset (including information on source, size, labelling, etc., to the extent available)
+* The different variations of the approach that you will compare, as well as details on how they will be applied (library, parameter tuning, etc.) 
+* Participants (numbers, intended characteristics)
+* Experimental procedure
+* Evaluation procedure / metrics
+**Planning** - Specify the different stages of your research, and their intended duration. You are free to choose how you want to display the planning. A gantt chart is a popular way to do so, as it can represent overlap between stages. Make sure to book in writing throughout the trajectory, and it is advisable to count back from the intended end date of your thesis to know when you would like to finalize your concept version and when the experimentation should be finished to make this happen.
 
