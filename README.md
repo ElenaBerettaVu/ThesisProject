@@ -97,7 +97,7 @@ Once you have completed all of these steps, please fill out [this google form](h
 
 
 <a name="time"></a>
-## 4. Research Design and Timeline
+## 4. Project Plan and Timeline
 
 The first thing to do to begin your thesis project is to draft a Project Plan. As a rule, it is always best to send me a non-final version and give me time to correct. Within the Project Plan should be included clear research questions and in the methodology a concrete idea of how you intend to answer the research questions.
 
@@ -133,7 +133,7 @@ The project plan should be no longer than 4 pages, excluding references.
 
 <a name="writing"></a>
 ## 5. Progressive Writing Tips
-To make the thesis writing process less daunting and more efficient, I **strongly** recommend adopting a **progressive writing method**. This approach involves writing continuously throughout the project, starting from day one. :rocket:
+To make the thesis writing process less daunting and more efficient, I **strongly** recommend adopting a **progressive writing method**. This approach involves writing continuously throughout the project, starting from day one :rocket:
 
 #### Key benefits:
 - **Capture key details**: 📝 writing early ensures you don’t forget important insights, decisions, or challenges encountered during your research
@@ -153,14 +153,14 @@ To make the thesis writing process less daunting and more efficient, I **strongl
    - *Introduction*: define subsections for background, problem definition, and research objectives
    - *Methodology*: include subsections like data acquisition, preprocessing, model design, and evaluation metrics
 
-   **Paragraph-level planning**: For each subsection, jot down the main points you want to cover, the arguments to make, or the evidence to present. This detailed planning ensures that your writing has direction and purpose 📑
+   **Paragraph-level planning**: for each subsection, jot down the main points you want to cover, the arguments to make, or the evidence to present. This detailed planning ensures that your writing has direction and purpose 📑
 
-3. **Update regularly**: 🔄 Add notes, comments, and draft sections as your research progresses. For instance:
-   - Write the *Introduction* as you refine your research questions.
-   - Expand the *Methodology* while designing and implementing experiments.
-   - Draft the *Results* section as you analyze data, noting key findings immediately.
+3. **Update regularly**: 🔄 add notes, comments, and draft sections as your research progresses. For instance:
+   - Write the *Introduction* as you refine your research questions
+   - Expand the *Methodology* while designing and implementing experiments
+   - Draft the *Results* section as you analyze data, noting key findings immediately
 
-4. **Iterate**: 🔁 Submit drafts for feedback early and often. Don’t aim for perfection; instead, focus on refining through feedback and revisions
+4. **Iterate**: 🔁 submit drafts for feedback early and often. **Don’t aim for perfection**; instead, focus on refining through feedback and revisions
 
 By integrating writing into your research process and detailing your outline thoroughly, you will develop a stronger understanding of your work and reduce stress during the final stages of your thesis 🌟
 
