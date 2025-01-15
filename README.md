@@ -4,7 +4,7 @@
 2. [ How to reach me. ](#reach)
 3. [ What do to do first. ](#first)
 4. [ Project Plan and Timeline. ](#time)
-   4.1 [ How to draft the Project Plan. ](#project-plan)
+   - 4.1 [ How to draft the Project Plan. ](#project-plan)
 5. [ Progressive Writing Tips. ](#writing)
 
 <a name="start"></a>
@@ -113,7 +113,7 @@ The project plan should include the following sections:
 The project plan should be no longer than 4 pages, excluding references.
 
 <a name="writing"></a>
-## Progressive Writing Tips
+## 5. Progressive Writing Tips
 To make the thesis writing process less daunting and more efficient, I **strongly** recommend adopting a **progressive writing method**. This approach involves writing continuously throughout the project, starting from day one. :rocket:
 
 #### Key benefits:
