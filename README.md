@@ -3,7 +3,9 @@
 1. [ Starting guide. ](#start)
 2. [ How to reach me. ](#reach)
 3. [ What do to do first. ](#first)
-4. [ Research Design and Timeline. ](#time)
+4. [ Project Plan and Timeline. ](#time)
+   4.1 [ How to draft the Project Plan. ](#project-plan)
+5. [ Progressive Writing Tips. ](#writing)
 
 <a name="start"></a>
 ## 1. Starting guide
@@ -78,7 +80,7 @@ Once you have completed all of these steps, please fill out [this google form](h
 <a name="time"></a>
 ## 4. Research Design and Timeline
 
-The first thing to do to begin your thesis project is to draft a Research Design. As a rule, it is always best to send me a non-final version and give me time to correct. Within the Research Design should be included clear research questions and in the methodology a concrete idea of how you intend to answer the research questions.
+The first thing to do to begin your thesis project is to draft a Project Plan. As a rule, it is always best to send me a non-final version and give me time to correct. Within the Project Plan should be included clear research questions and in the methodology a concrete idea of how you intend to answer the research questions.
 
 Below you will find some general information about the timeline to follow if you want to execute the thesis project in no more than 5 months:
 * **month 1**: project plan, bibliography construction, data retrieval or dataset construction (depending on the project)
@@ -92,7 +94,8 @@ Below you will find some general information about the timeline to follow if you
 * to proofread your work and give you useful feedback I need time, and proofreading your work is not my exclusive responsibility. Be sure to send me your work on time :alarm_clock:
 * do not assume that I will always be there. Generally the months when I am away for vacation or personal reasons are August, September and December. As a rule, do not assume that I am always present, or that my colleagues are, if you do not meet agreed deadlines :desert_island:
 
-### 4.1 Project Plan
+<a name="project-plan"></a>
+### 4.1 How to draft the Project Plan
 The project plan should include the following sections:
 
 **Introduction** - Start with a brief introduction into the problem that your research will address, or the novel insights it is intended to yield, convincing the reader of the societal and scientific relevance of the task. If you do an external internship, also give the context of the internship provider. The intro may end with one or more research questions and/or a problem statement.
@@ -108,4 +111,37 @@ The project plan should include the following sections:
 **Planning** - Specify the different stages of your research, and their intended duration. You are free to choose how you want to display the planning. A gantt chart is a popular way to do so, as it can represent overlap between stages. Make sure to book in writing throughout the trajectory, and it is advisable to count back from the intended end date of your thesis to know when you would like to finalize your concept version and when the experimentation should be finished to make this happen.
 
 The project plan should be no longer than 4 pages, excluding references.
+
+<a name="writing"></a>
+## Progressive Writing Tips
+To make the thesis writing process less daunting and more efficient, I **strongly** recommend adopting a **progressive writing method**. This approach involves writing continuously throughout the project, starting from day one. :rocket:
+
+#### Key benefits:
+- **Capture key details**: 📝 writing early ensures you don’t forget important insights, decisions, or challenges encountered during your research
+- **Clarify your understanding**: 💡 writing forces you to articulate your ideas clearly, helping you refine your research
+- **Better supervision**: 🧑‍🏫 it allows me to provide targeted feedback throughout the process, reducing last-minute revisions
+- **Manageable workload**: 📅 distributes the writing workload, avoiding the stress of completing everything at the end
+
+#### How to implement:
+1. **Start with an outline**: 🗂️ create a detailed outline of your thesis structure. Begin by identifying the major sections, such as:
+   - **Introduction**: uutline the problem, motivation, and research questions ✍️
+   - **Related Work**: summarize key areas of literature, their gaps, and how your work addresses them 📖
+   - **Methodology**: sketch the experimental or computational methods, tools, and workflows 🛠️
+   - **Results**: define how results will be structured (e.g., quantitative, qualitative, comparative) 📊
+   - **Discussion**: plan how to interpret results, address limitations, and propose future directions 🤔
+
+2. **Detail your subsections**: 📝 under each section, brainstorm subsections and their contents. For example:
+   - *Introduction*: define subsections for background, problem definition, and research objectives
+   - *Methodology*: include subsections like data acquisition, preprocessing, model design, and evaluation metrics
+
+   **Paragraph-level planning**: For each subsection, jot down the main points you want to cover, the arguments to make, or the evidence to present. This detailed planning ensures that your writing has direction and purpose 📑
+
+3. **Update regularly**: 🔄 Add notes, comments, and draft sections as your research progresses. For instance:
+   - Write the *Introduction* as you refine your research questions.
+   - Expand the *Methodology* while designing and implementing experiments.
+   - Draft the *Results* section as you analyze data, noting key findings immediately.
+
+4. **Iterate**: 🔁 Submit drafts for feedback early and often. Don’t aim for perfection; instead, focus on refining through feedback and revisions
+
+By integrating writing into your research process and detailing your outline thoroughly, you will develop a stronger understanding of your work and reduce stress during the final stages of your thesis 🌟
 
