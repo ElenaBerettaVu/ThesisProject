@@ -1,11 +1,11 @@
 # Thesis Project
 
-1. [ Starting guide. ](#start)
-2. [ How to reach me. ](#reach)
-3. [ What do to do first. ](#first)
-4. [ Project Plan and Timeline. ](#time)
-   - 4.1 [ How to draft the Project Plan. ](#project-plan)
-5. [ Progressive Writing Tips. ](#writing)
+1. [ Starting guide ](#start)
+2. [ How to reach me ](#reach)
+3. [ What do to do first ](#first)
+4. [ Project Plan and Timeline ](#time)
+   - 4.1 [ How to draft the Project Plan ](#project-plan)
+5. [ Progressive Writing Tips ](#writing)
 
 <a name="start"></a>
 ## 1. Starting guide
