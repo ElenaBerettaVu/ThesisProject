@@ -42,7 +42,7 @@ I usually consider these appointments as online meetings. If you prefer **to mee
 * please try to meet the deadlines I will propose during the course of the project :alarm_clock: This will ensure you finish your thesis project on time and enjoy some well-deserved vacation time next summer 🏝️
 
 <a name="agenda"></a>
-### Agenda template
+### 2.1 Agenda template
 🗒️ **Agenda**
 - Topic 1
 - Topic 2
