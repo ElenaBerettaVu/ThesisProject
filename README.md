@@ -43,17 +43,21 @@ I usually consider these appointments as online meetings. If you prefer **to mee
 
 <a name="agenda"></a>
 ### Agenda template
-:portablocco: Agenda
-Topic 1
-Topic 2
-Topic 3
-:promemoria: Meeting Notes
-What we discussed:
-Decisions we made:
-:presto: Next Steps
-To-do 1
-To-do 2
-To-do 3
+🗒️ **Agenda**
+- Topic 1
+- Topic 2
+- Topic 3
+
+📝 **Meeting Notes**
+- **What we discussed:**
+  - ...
+- **Decisions we made:**
+  - ...
+
+⏩ **Next Steps**
+- To-do 1
+- To-do 2
+- To-do 3
 
 
 <a name="first"></a>
