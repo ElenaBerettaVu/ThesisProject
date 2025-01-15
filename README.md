@@ -2,10 +2,11 @@
 
 1. [ Starting guide ](#start)
 2. [ How to reach me ](#reach)
-3. [ What do to do first ](#first)
-4. [ Project Plan and Timeline ](#time)
+   - 2.1 [ Agenda template ](#agenda)
+4. [ What do to do first ](#first)
+5. [ Project Plan and Timeline ](#time)
    - 4.1 [ How to draft the Project Plan ](#project-plan)
-5. [ Progressive Writing Tips ](#writing)
+6. [ Progressive Writing Tips ](#writing)
 
 <a name="start"></a>
 ## 1. Starting guide
@@ -39,6 +40,20 @@ I usually consider these appointments as online meetings. If you prefer **to mee
 * I expect you to be proactive. Don’t wait for me to be asking for an update. From the time you start the thesis I expect you to at least have a **weekly update on slack** and to book a **biweekly appointment with me**. I will give feedback during our biweekly meetings
 * before your biweekly appointment prepare an agenda at least a couple of days in advance so that I can best help you. If we have meeting on Monday, get me the agenda at least Friday morning of the previous week :bookmark:
 * please try to meet the deadlines I will propose during the course of the project :alarm_clock: This will ensure you finish your thesis project on time and enjoy some well-deserved vacation time next summer 🏝️
+
+<a name="agenda"></a>
+### Agenda template
+:portablocco: Agenda
+Topic 1
+Topic 2
+Topic 3
+:promemoria: Meeting Notes
+What we discussed:
+Decisions we made:
+:presto: Next Steps
+To-do 1
+To-do 2
+To-do 3
 
 
 <a name="first"></a>
