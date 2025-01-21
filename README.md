@@ -118,8 +118,11 @@ Below you will find some general information about the timeline to follow if you
 The project plan should include the following sections:
 
 **Introduction** - Start with a brief introduction into the problem that your research will address, or the novel insights it is intended to yield, convincing the reader of the societal and scientific relevance of the task. If you do an external internship, also give the context of the internship provider. The intro may end with one or more research questions and/or a problem statement.
+
 **Related work** - Discuss the scientific literature that addresses the same or a similar problem as your study, and make clear how your study relates and adds to this body of research. Try to give a broad but concise overview of the ways in which the problem is approached in other studies. 
+
 **Methodology** - Specify and motivate the proposed approach(es) that you will implement / apply. If it includes a pipeline or architecture, it makes sense to give a rough visualization and description.
+
 **Experimental set-up** - Describe what the experiment(s) will look like. Depending on your study, it can include information like:
 * Research design
 * Dataset (including information on source, size, labelling, etc., to the extent available)
@@ -127,6 +130,7 @@ The project plan should include the following sections:
 * Participants (numbers, intended characteristics)
 * Experimental procedure
 * Evaluation procedure / metrics
+
 **Planning** - Specify the different stages of your research, and their intended duration. You are free to choose how you want to display the planning. A gantt chart is a popular way to do so, as it can represent overlap between stages. Make sure to book in writing throughout the trajectory, and it is advisable to count back from the intended end date of your thesis to know when you would like to finalize your concept version and when the experimentation should be finished to make this happen.
 
 The project plan should be no longer than 4 pages, excluding references.
