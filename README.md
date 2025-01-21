@@ -15,7 +15,7 @@
 
 Hello everyone :sunny:
 as you know you will soon begin your thesis project :rocket:
-In order to make communications and interactions easier, especially for students going through a similar project, I ask you all to join [this work area](https://join.slack.com/t/thesis-project-gruppo/shared_invite/zt-2w9kbtsi9-RV0HFQFNhnXpLOOT97tCew). This way it is easier for everyone to exchange opinions
+In order to make communications and interactions easier, especially for students going through a similar project, I ask you all to join [this work area]([https://join.slack.com/t/thesis-project-gruppo/shared_invite/zt-2w9kbtsi9-RV0HFQFNhnXpLOOT97tCew](https://join.slack.com/t/thesis-project-gruppo/shared_invite/zt-2yjd4on9s-ctcySGj_juUFvbmBPdjdlg)(if the link doesn't work, send me an email specifing which email address you want yo use and I will add you to the Slack area). This way it is easier for everyone to exchange opinions
 :speaking_head:, ideas:bulb:, reading suggestions:books:
 The best ideas have always come to me through interactions with others so don’t be afraid to share, research arises and grows also and especially through sharing!
 
