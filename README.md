@@ -29,7 +29,7 @@ Happy start of the project to everyone! :rocket:
 
 Please **do not contact me by email**. Slack is my preferred work tool to which I am always connected during working hours (approximately 9/17).
 
-🗓 To book an appointment with me use [this link](https://calendar.google.com/calendar/u/0/appointments/AcZssZ0UIotWY--1-N-QAT6DrJny_Zx6W_ODRlDvud8=).
+🗓 To book an appointment with me use [this link](https://calendar.app.google/vhm2ahCufo36ow7o6).
 
 I usually consider these appointments as online meetings. If you prefer **to meet in person**, send me a message on slack first to verify that I will be at VU on the day you want to book an appointment. My office is at the 10th floor, wing A, room 61, of the NU building.
 
