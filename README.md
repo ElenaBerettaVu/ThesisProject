@@ -15,7 +15,7 @@
 
 Hello everyone :sunny:
 as you know you will soon begin your thesis project :rocket:
-In order to make communications and interactions easier, especially for students going through a similar project, I ask you all to join [this work area](https://join.slack.com/t/thesis-project-gruppo/shared_invite/zt-32huyk09d-u11mmUGrSWS542mgM3fDsw) (if the link doesn't work, send me an email specifing which email address you want yo use and I will add you to the Slack area). This way it is easier for everyone to exchange opinions
+In order to make communications and interactions easier, especially for students going through a similar project, I ask you all to join [this work area]([https://join.slack.com/t/thesis-project-gruppo/shared_invite/zt-32huyk09d-u11mmUGrSWS542mgM3fDsw](https://join.slack.com/t/thesis-project-gruppo/shared_invite/zt-3nxj73jhi-xBAtD34IbSLXIEj1DcJblA)) (if the link doesn't work, send me an email specifing which email address you want yo use and I will add you to the Slack area). This way it is easier for everyone to exchange opinions
 :speaking_head:, ideas:bulb:, reading suggestions:books:
 The best ideas have always come to me through interactions with others so don’t be afraid to share, research arises and grows also and especially through sharing!
 
@@ -35,11 +35,11 @@ I usually consider these appointments as online meetings. If you prefer **to mee
 
 **Culture/rules** 👩‍💻
 
-* online or in-person meetings: you decide!
+* online or in-person meetings: you decide! But check first if I am in the office 
 * this is your thesis, but it’s also a collaboration! :busts_in_silhouette:
-* I expect you to be proactive. Don’t wait for me to be asking for an update. From the time you start the thesis I expect you to at least have a **weekly update on slack** and to book a **biweekly appointment with me**. I will give feedback during our biweekly meetings
-* before your biweekly appointment prepare an agenda at least a couple of days in advance so that I can best help you. If we have meeting on Monday, get me the agenda at least Friday morning of the previous week :bookmark:
-* please try to meet the deadlines I will propose during the course of the project :alarm_clock: This will ensure you finish your thesis project on time and enjoy some well-deserved vacation time next summer 🏝️
+* I expect you to be proactive
+* before the meeting prepare an agenda at least a couple of days in advance so that I can best help you. If we have meeting on Monday, get me the agenda at least Friday morning of the previous week :bookmark:
+* please meet the deadlines :alarm_clock: This will ensure you finish your thesis project on time and enjoy some well-deserved vacation time next summer 🏝️ If deadlines are missed, I cannot ensure you will graduate on time
 
 <a name="agenda"></a>
 ### 2.1 Agenda template
@@ -76,7 +76,7 @@ To get the most out of slack I recommend that you add the following apps/integra
 Write your thesis with [Overleaf](https://www.overleaf.com/). If you are not familiar with it, start familiarizing yourself with the tool before you begin writing. Once you have created the file share it with me; you can use my e-mail elena.beretta@vu.nl
 
 ### Github <img src="https://emoji.slack-edge.com/T0478UF0N80/github/6030952033273d03.png" width="25">
-It is easier for me to review your code from here. I will create a project on Github shortly and share it with you. All the code you use must be in the github folder. Write to me privately the email you have decided to use. For convenience I recommend that you use the same email address for all tools, including slack
+It is easier for me to review your code from here. Please, create a repo and share it with me
 
 ### Google Drive <img src="https://emoji.slack-edge.com/T0478UF0N80/google-drive/1b5371cac20a4325.png" width="25">
 Create a folder in your google drive and name it like this:
@@ -91,9 +91,6 @@ Inside create the following subfolders:
 * bibliography: where you will put the pdfs of the articles you have read/are going to use in the thesis. Please name the pdfs you place with the original title of the paper. This way it is easier for me to keep track of what you are reading/find a relevant article that you point out to me
 
 Once you have created the folder on drive share it with me (as before, use elena.beretta@vu.nl) and be sure to give me editor permissions; from time to time I might upload interesting things/articles to the folder
-
-### Google form <img src="https://emoji.slack-edge.com/T0478UF0N80/google-forms/d8327670b1b047cd.png" width="25">
-Once you have completed all of these steps, please fill out [this google form](https://docs.google.com/forms/d/e/1FAIpQLSfEXOOtH-ObOQNlUWbiDEGYZdAQxB4YmZCR8BvbwWzNtDuIeQ/viewform). I need this to collect all your links in one place.
 
 
 <a name="time"></a>
