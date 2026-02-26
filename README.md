@@ -5,8 +5,9 @@
    - 2.1 [ Agenda template ](#agenda)
 4. [ What do to do first ](#first)
 5. [ Project Plan and Timeline ](#time)
-   - 4.1 [ How to draft the Project Plan ](#project-plan)
-6. [ Progressive Writing Tips ](#writing)
+   - 4.1 [ First document (google doc) you MUST provide ](#first_doc)   
+   - 4.2 [ How to draft the Project Plan ](#project-plan)
+7. [ Progressive Writing Tips ](#writing)
 
 <a name="start"></a>
 ## 1. Starting guide
@@ -29,7 +30,7 @@ Happy start of the project to everyone! :rocket:
 
 Please **do not contact me by email**. Slack is my preferred work tool to which I am always connected during working hours (approximately 9/17).
 
-🗓 To book an appointment with me use [this link](https://calendar.app.google/vhm2ahCufo36ow7o6).
+Emergency meeting: 🗓 To book an appointment with me use [this link](https://calendar.app.google/vhm2ahCufo36ow7o6).
 
 I usually consider these appointments as online meetings. If you prefer **to meet in person**, send me a message on slack first to verify that I will be at VU on the day you want to book an appointment. My office is at the 10th floor, wing A, room 61, of the NU building.
 
@@ -110,8 +111,58 @@ Below you will find some general information about the timeline to follow if you
 * to proofread your work and give you useful feedback I need time, and proofreading your work is not my exclusive responsibility. Be sure to send me your work on time :alarm_clock:
 * do not assume that I will always be there. Generally the months when I am away for vacation or personal reasons are August, September and December. As a rule, do not assume that I am always present, or that my colleagues are, if you do not meet agreed deadlines :desert_island:
 
+<a name="first_doc"></a>
+### 4.1 First document (google doc) you MUST provide
+As a **first step**, you are required to prepare a **Thesis Project Plan** (see Section X).
+
+This document must clearly outline:
+- Your research direction
+- Research question(s)
+- Methodology and experimental design (if applicable)
+- Expected contributions
+- A structured timeline of milestones
+
+
+## Milestones and Review Timeline
+Your Thesis Project Plan must include a table with proposed milestones and review dates, structured as follows:
+
+| Milestone | Target Date |
+|------------|------------|
+| Meeting Supervisor: Proposal | dd/mm/yy |
+| Finalize Research Direction | dd/mm/yy |
+| Meeting Supervisor: Research | dd/mm/yy |
+| Finalize Experiment Details | dd/mm/yy |
+| Meeting Supervisor: Experiment | dd/mm/yy |
+| Completion of Methodology and Setup | dd/mm/yy |
+| Meeting Supervisor: Methodology | dd/mm/yy |
+| Completion of Results and Analysis | dd/mm/yy |
+| Meeting Supervisor: Results | dd/mm/yy |
+| Submission of First Draft | dd/mm/yy |
+| Thesis Presentation | dd/mm/yy |
+| Final Thesis Submission | dd/mm/yy |
+
+You may propose adjustments if needed, but any changes must be discussed and approved.
+
+
+## Meeting Structure Rules
+- Supervision meetings must follow this structure:
+  - **20 minutes** if scheduled **every two weeks**
+  - **30 minutes** if scheduled **monthly or every three weeks**
+- Do **not schedule multiple supervision meetings in the same week**.
+- Meetings must be evenly distributed to ensure steady progress.
+
+
+## Calendar Invitations
+Once the dates and times of each supervision meeting are agreed with me:
+- Send a **separate calendar invitation for each meeting**.
+- Include the **meeting link** (Zoom / Teams / Google Meet).
+- Clearly indicate the milestone focus in the event title (e.g., *Supervisor Meeting – Experiment Phase*).
+- Do not combine multiple milestones into a single calendar event.
+
+A clear and realistic project plan is essential to ensure continuous progress and timely completion of your thesis.
+
 <a name="project-plan"></a>
-### 4.1 How to draft the Project Plan
+### 4.2 How to draft the Project Plan
 The project plan should include the following sections:
 
 **Introduction** - Start with a brief introduction into the problem that your research will address, or the novel insights it is intended to yield, convincing the reader of the societal and scientific relevance of the task. If you do an external internship, also give the context of the internship provider. The intro may end with one or more research questions and/or a problem statement.
