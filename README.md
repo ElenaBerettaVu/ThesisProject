@@ -64,10 +64,11 @@ I usually consider these appointments as online meetings. If you prefer **to mee
 <a name="first"></a>
 ## 3. What do to do first
 
-This section describes the **working tools** and how they should be used.
+This section describes the mandatory **working tools** and how they should be used.
 
 ### Slack app <img src="https://emoji.slack-edge.com/T0478UF0N80/slack/7d462d2443.png" width="25">
 
+Join the [Thesis Slack workspace](https://join.slack.com/t/thesis-project-gruppo/shared_invite/zt-3nxj73jhi-xBAtD34IbSLXIEj1DcJblA) (this link as an expiration date, if it does not work, send me an email). 
 To get the most out of slack I recommend that you add the following apps/integrations to the workspace (use the same email you used to sign up for slack):
 * google calendar
 * google drive
